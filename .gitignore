@@ -1,0 +1,35 @@
+﻿# --- Сборка и бинарники ---
+build/
+out/
+bin/
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+
+# --- Скомпилированные файлы (C++ / MSVC) ---
+*.exe
+*.pdb
+*.obj
+*.o
+*.ilk
+*.tlog
+*.log
+*.idb
+
+# --- Настройки IDE (Visual Studio / VS Code) ---
+.vs/
+.vscode/
+CMakeSettings.json
+*.user
+*.suo
+*.sln
+*.vcxproj*
+*.cmake.stamp
+
+# --- vcpkg (если используешь manifest mode локально) ---
+vcpkg_installed/
+
+# --- Системный мусор (Windows / macOS) ---
+Thumbs.db
+desktop.ini
+.DS_Store
