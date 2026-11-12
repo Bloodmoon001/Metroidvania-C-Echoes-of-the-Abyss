@@ -44,28 +44,15 @@
 
 
 
-\### 📸 Screenshots \& Gameplay
-
-
-
-> \*(Replace these placeholders with your actual images and GIFs)\*
-
-
+### 📸 Screenshots & Gameplay
 
 | Exploring the Caves | Boss Fight in the Void |
-
 |:---:|:---:|
-
-| !\[Caves](assets/screenshots/caves.jpg) | !\[Void](assets/screenshots/void.jpg) |
-
-
+| ![Caves](assets/screenshots/caves.jpg) | ![Void](assets/screenshots/void.jpg) |
 
 | Dash Mechanic | Ice Physics |
-
 |:---:|:---:|
-
-| !\[Dash](assets/gifs/dash.gif) | !\[Ice](assets/gifs/ice.gif) |
-
+| ![Dash](assets/gifs/dash.gif) | ![Ice](assets/gifs/ice.gif) |
 
 
 \### ✨ Key Features
